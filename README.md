@@ -52,6 +52,10 @@ Before you begin, ensure you have the following installed:
 - [Tailwind CSS](https://tailwindcss.com/)
 - [shadcn/ui](https://ui.shadcn.com/)
 
+  ## Deployment
+
+This project is deployed on [Render](https://render.com/). The live version can be accessed at [https://home-page-1ucw.onrender.com/).
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
